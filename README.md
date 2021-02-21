@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm shubhcode</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<samp align="center">I'm Shubhankar. A freelance Android Designer & Developer from Kolhapur, India. I design and develop apps, website and applications.</samp>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhcode12&label=Profile%20views&color=0e75b6&style=flat" alt="shubhcode12" /> </p>
 
