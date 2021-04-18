@@ -41,3 +41,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhcode12&show_icons=true&locale=en&layout=compact" alt="shubhcode12" /></p>
 
 
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets7.lottiefiles.com/packages/lf20_EAfMOs/Youtube.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
+
+
