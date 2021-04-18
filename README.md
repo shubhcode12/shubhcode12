@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://raw.githubusercontent.com/shubhcode12/shubhcode12/master/animation_200_klexrzr8.gif">
+<img src="https://raw.githubusercontent.com/shubhcode12/shubhcode12/master/animation_500_knmoauuk.gif">
   <br><br>
 <samp align="center">I'm Shubhankar. A freelance Android Designer & Developer from Kolhapur, India. I design and develop website and applications.</samp>
 </p>
