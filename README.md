@@ -1,5 +1,5 @@
 <p align="center"> 
-#<img src="https://raw.githubusercontent.com/shubhcode12/shubhcode12/master/animation_500_knmoauuk.gif">
+<!---<img src="https://raw.githubusercontent.com/shubhcode12/shubhcode12/master/animation_500_knmoauuk.gif">--->
   <br><br>
 <samp align="center">I'm Shubhankar. A freelance Android Designer & Developer from Kolhapur, India. I design and develop website and applications.</samp>
 </p>
@@ -9,13 +9,9 @@
 
 - 🔭 I’m currently working on **Google Vision Api**
 
-- 🌱 I’m currently learning **Flutter**
-
-- 👯 I’m looking to collaborate on **Animated Sticker App**
+- 🌱 I’m currently learning **Dart & Flutter**
 
 - 👨‍💻 Here is my portfolio [shubhcoder.com](shubhcoder.com)
-
-- 📝 I regularly write articles on [shubhcodeblog.tk](shubhcodeblog.tk)
 
 - 💬 Ask me about **Android, Java, Tech stuff, pc build**
 
