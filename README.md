@@ -1,26 +1,57 @@
-<p align="center"> 
-<!---<img src="https://raw.githubusercontent.com/shubhcode12/shubhcode12/master/animation_500_knmoauuk.gif">--->
-  <br><br>
-<samp align="center">I'm Shubhankar. A freelance Android Designer & Developer from Kolhapur, India. I design and develop website and applications.</samp>
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhcode12&label=Profile%20views&color=0e75b6&style=flat" alt="shubhcode12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhcode12" alt="shubhcode12" /></a> </p>
+![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
-- 🔭 I’m currently working on **Google Vision Api**
+<h1 align="center"> Hello, I'm Shubhankar Mahajan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-- 🌱 I’m currently learning **Dart & Flutter**
+<h3 align="center">I'm an enthusiastic app developer from India❤</h3>  
 
-- 👨‍💻 Here is my portfolio [shubhcoder.com](shubhcoder.com)
+A self-taught, passionate app dev🎯 from India🌎. I love to work with new technologies. Currently, I am learning how to write flutter apps more efficiently with a well structured code and experimenting with UI/UX !  🌱. I’m looking to apply my skills in a good million dollar idea! So if you have any , let's collaborate xD. 
 
-- 💬 Ask me about **Android, Java, Tech stuff, pc build**
 
-- 📫 How to reach me **@shubhcode**
+![focus](https://img.shields.io/badge/focus-FullStack-critical)
+![living](https://img.shields.io/badge/living-India-3c9)
 
-- ⚡ Fun fact **I make memes**
+<img width="40%" align="right" alt="Github Image" src="https://media.giphy.com/media/V21UwO1oh2nswmq08I/giphy.gif" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- 💡 I like to explore new technologies and develop software solutions and quick hacks.
+- 🌱 I’m currently learning flutter and kotlin.
+- ⚡ Fun fact: I make memes
+- 📝 Please have a look at my [Resume](https://drive.google.com) for more details about me. I'm open to feedback and suggestions!
+
+
+<br/>
+
+## 👨‍💻 Languages and Tools
+
+<br />
+<div align="center">
+
+<img src="https://i.imgur.com/Riq5bIb.png" height="40" width="40">
+<img src="https://i.imgur.com/Uivesm4.png" height="40" width="40">
+<img src="https://i.imgur.com/lPav31e.png" height="45" width="65">
+<img src="https://camo.githubusercontent.com/114aa59f6bfe1ff7ef3444fbb224078eb6a32c43f0ed03a6c0c3e6df67e049ec/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667" height="40" width="40">
+<img src="https://i.imgur.com/9Ulh3vX.png" height="40" width="40">
+<img src="https://i.imgur.com/apxFVxR.png" height="40" width="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" height="40" width="40">
+
+<br />
+
+<img src="https://i.imgur.com/EtRNN8U.png" height="35" width="60">
+<img src="https://i.imgur.com/VjulBsn.png" height="40" width="40">
+<img src="https://i.imgur.com/0BKuO1I.png" height="40" width="40">
+<img src="https://i.imgur.com/b65wQ01.png" height="40" width="40">
+<img src="https://i.imgur.com/0EZWddS.png" height="40" width="40">
+</div>
+
+<br /> <br />
+
+
+<div align="center">
+
+### Show some ❤️ by starring ⭐ some of the repositories!
+
+
+<p align="center">
 <a href="https://twitter.com/shubhcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shubhcode" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shubhcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shubhcode" height="30" width="40" /></a>
 <a href="https://fb.com/shubhcode12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shubhcode12" height="30" width="40" /></a>
@@ -28,11 +59,4 @@
 <a href="https://www.youtube.com/c/shubhcode//" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="shubhcode//" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/shubhcode"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shubhcode" /></a></p><br><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhcode12&show_icons=true&locale=en&layout=compact" alt="shubhcode12" /></p>
-
+</div>
