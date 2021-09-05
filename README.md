@@ -19,12 +19,14 @@ A self-taught, passionate app dev🎯 from India🌎. I love to work with new te
 - 📝 Please have a look at my [Resume](https://drive.google.com) for more details about me. I'm open to feedback and suggestions!
 
 
-<br/>
+<br />
 
-## 👨‍💻 Languages and Tools
+
 
 <br />
 <div align="center">
+
+## 👨‍💻 Languages and Tools
 
 <img src="https://i.imgur.com/Riq5bIb.png" height="40" width="40">
 <img src="https://i.imgur.com/Uivesm4.png" height="40" width="40">
