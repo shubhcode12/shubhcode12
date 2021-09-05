@@ -48,11 +48,10 @@ A self-taught, passionate app dev🎯 from India🌎. I love to work with new te
 
 
 <p align="center">
-<a href="https://twitter.com/shubhcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shubhcode" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shubhcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shubhcode" height="30" width="40" /></a>
-<a href="https://fb.com/shubhcode12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shubhcode12" height="30" width="40" /></a>
 <a href="https://instagram.com/shubhcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shubhcode" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/shubhcode//" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="shubhcode//" height="30" width="40" /></a>
+<a href="https://twitter.com/shubhcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shubhcode" height="30" width="40" /></a>
 </p>
 
 </div>
