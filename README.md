@@ -11,8 +11,8 @@ A self-taught, passionate app dev🎯 from India🌎. I love to work with new te
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
 ![living](https://img.shields.io/badge/living-India-3c9)
 
-<img width="40%" align="right" alt="Github Image" src="https://media.giphy.com/media/V21UwO1oh2nswmq08I/giphy.gif" />
-
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=shubhcode12&left_color=green&right_color=red)
+ 
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 - 🌱 I’m currently learning flutter and kotlin.
 - ⚡ Fun fact: I make memes
