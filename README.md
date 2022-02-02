@@ -1,4 +1,4 @@
-
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=shubhcode12&left_color=green&right_color=red)
 
 <h1 align="start"> Hello, I'm Shubhankar Mahajan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
@@ -6,8 +6,6 @@
 
 A self-taught, passionate app dev🎯 from India🌎. I love to work with new technologies. Currently, I am learning how to write flutter apps more efficiently with a well structured code and experimenting with UI/UX !  🌱. I’m looking to apply my skills in a good million dollar idea! So if you have any , let's collaborate xD. 
 
-
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=shubhcode12&left_color=green&right_color=red)
  
 -  I like to explore new technologies and develop software solutions and quick hacks.
 -  I’m currently working on e-commerce website for Souvenir Designs.
