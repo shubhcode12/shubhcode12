@@ -32,11 +32,6 @@ A self-taught, passionate app dev🎯 from India🌎. I love to work with new te
 
 <br /> <br />
 
-![GitHub Profile data](https://github-readme-stats.vercel.app/api?username=shubhcode12&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
-
-<br /> <br />
-
 ## Stats
 |<img src="https://github-readme-stats.vercel.app/api?username=shubhcode12&hide_border=true&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhcode12&theme=dark&hide_border=true"/>|
 |---|---|
