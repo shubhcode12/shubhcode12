@@ -12,8 +12,6 @@ A self-taught, passionate app dev🎯 from India🌎. I love to work with new te
 -  Please have a look at my [Resume](https://drive.google.com) for more details about me. I'm open to feedback and suggestions!
 
 
-<br /> <br />
-
 ## Stats
 |<img src="https://github-readme-stats.vercel.app/api?username=shubhcode12&hide_border=true&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhcode12&theme=dark&hide_border=true"/>|
 |---|---|
