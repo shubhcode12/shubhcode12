@@ -38,7 +38,7 @@ A self-taught, passionate app dev🎯 from India🌎. I love to work with new te
 
 
 <p align="start">
-<a href="https://linkedin.com/in/shubhcode" target="blank"><img style="background:#fff;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shubhcode" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubhcode" target="blank"><img style="background-color:#fff;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shubhcode" height="30" width="40" /></a>
 <a href="https://instagram.com/shubhcode" target="blank"><img style="background:#fff;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shubhcode" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/shubhcode//" target="blank"><img  style="background:#fff;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="shubhcode//" height="30" width="40" /></a>
 <a href="https://twitter.com/shubhcode" target="blank"><img style="background:#fff;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shubhcode" height="30" width="40" /></a>
