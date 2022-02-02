@@ -1,7 +1,6 @@
 
-![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
-<h1 align="center"> Hello, I'm Shubhankar Mahajan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="start"> Hello, I'm Shubhankar Mahajan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
 <h3 align="center">I'm an enthusiastic app developer from India❤</h3>  
 
@@ -37,6 +36,8 @@ A self-taught, passionate app dev🎯 from India🌎. I love to work with new te
 
 
 <br /> <br />
+
+[![Shubhcode github activity graph](https://activity-graph.herokuapp.com/graph?username=shubhcode12&custom_title=Shubhcode%27s%20Activity%20Graph&hide_border=true&theme=github)](https://github.com/shaileshaanand/github-readme-activity-graph)
 
 
 <div align="center">
