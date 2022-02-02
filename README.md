@@ -9,9 +9,9 @@ A self-taught, passionate app dev🎯 from India🌎. I love to work with new te
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=shubhcode12&left_color=green&right_color=red)
  
--◉ I like to explore new technologies and develop software solutions and quick hacks.
--◉ I’m currently working on e-commerce website for Souvenir Designs.
--◉ Please have a look at my [Resume](https://drive.google.com) for more details about me. I'm open to feedback and suggestions!
+- ◉ I like to explore new technologies and develop software solutions and quick hacks.
+- ◉ I’m currently working on e-commerce website for Souvenir Designs.
+- ◉ Please have a look at my [Resume](https://drive.google.com) for more details about me. I'm open to feedback and suggestions!
 
 
 <br /> <br />
