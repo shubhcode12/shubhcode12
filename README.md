@@ -12,14 +12,9 @@ A self-taught, passionate app dev🎯 from India🌎. I love to work with new te
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=shubhcode12&left_color=green&right_color=red)
  
-- 💡 I like to explore new technologies and develop software solutions and quick hacks.
-- 🌱 I’m currently learning flutter and kotlin.
-- ⚡ Fun fact: I make memes
-- 📝 Please have a look at my [Resume](https://drive.google.com) for more details about me. I'm open to feedback and suggestions!
-
-
-<br />
-
+-◉ I like to explore new technologies and develop software solutions and quick hacks.
+-◉ I’m currently working on e-commerce website for Souvenir Designs.
+-◉ Please have a look at my [Resume](https://drive.google.com) for more details about me. I'm open to feedback and suggestions!
 
 
 <br /> <br />
@@ -42,11 +37,11 @@ A self-taught, passionate app dev🎯 from India🌎. I love to work with new te
 ### Show some ❤️ by starring ⭐ some of the repositories!
 
 
-<p align="center">
-<a href="https://linkedin.com/in/shubhcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shubhcode" height="30" width="40" /></a>
-<a href="https://instagram.com/shubhcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shubhcode" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shubhcode//" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="shubhcode//" height="30" width="40" /></a>
-<a href="https://twitter.com/shubhcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shubhcode" height="30" width="40" /></a>
+<p align="start">
+<a href="https://linkedin.com/in/shubhcode" target="blank"><img style="background:#fff;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shubhcode" height="30" width="40" /></a>
+<a href="https://instagram.com/shubhcode" target="blank"><img style="background:#fff;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shubhcode" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/shubhcode//" target="blank"><img  style="background:#fff;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="shubhcode//" height="30" width="40" /></a>
+<a href="https://twitter.com/shubhcode" target="blank"><img style="background:#fff;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shubhcode" height="30" width="40" /></a>
 </p>
 
 </div>
