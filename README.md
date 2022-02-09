@@ -4,7 +4,7 @@
 
 <h3 align="start">I'm an enthusiastic app developer from India❤</h3>  
 
-A self-taught, passionate app dev🎯 from India🌎. I love to work with new technologies. Currently, I am learning how to write flutter apps more efficiently with a well structured code and experimenting with UI/UX !  🌱. I’m looking to apply my skills in a good million dollar idea! So if you have any , let's collaborate xD. 
+A self-taught, passionate app dev from India. I love to work with new technologies. Currently, I am learning how to write flutter apps more efficiently with a well structured code and experimenting with UI/UX !. I’m looking to apply my skills in a good million dollar idea! So if you have any , let's collaborate xD. 
 
  
 -  I like to explore new technologies and develop software solutions and quick hacks.
