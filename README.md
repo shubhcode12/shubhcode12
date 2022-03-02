@@ -8,7 +8,7 @@ A self-taught, passionate app dev from India. I love to work with new technologi
 
  
 -  I like to explore new technologies and develop software solutions and quick hacks.
--  I’m currently working on e-commerce website for Souvenir Designs.
+-  I’m currently working on e-commerce website for [Souvenir Designs](https://souvenirdesigns.com/).
 -  Please have a look at my [Resume](https://drive.google.com) for more details about me. I'm open to feedback and suggestions!
 
 
