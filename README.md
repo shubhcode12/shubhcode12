@@ -18,7 +18,6 @@ A self-taught, passionate app dev from India. I love to work with new technologi
 - [Prarthi Digitech](https://prarthidigitech.com/).
 - [NFT Rarity Discord Bot](https://github.com/shubhcode12/NFT-Rarity-Bot-Discord).
 
----
 
 ## Stats
 |<img src="https://github-readme-stats.vercel.app/api?username=shubhcode12&hide_border=true&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhcode12&theme=dark&hide_border=true"/>|
