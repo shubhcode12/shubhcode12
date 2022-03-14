@@ -11,6 +11,15 @@ A self-taught, passionate app dev from India. I love to work with new technologi
 -  I’m currently working on e-commerce website for [Souvenir Designs](https://souvenirdesigns.com/).
 -  Please have a look at my [Resume](https://raw.githubusercontent.com/shubhcode12/shubhcode12/7c6715dbbfd30591fdc7e2181e6e7a9b09bb93f2/shubhankar-mahajan-cv%20(1).pdf) for more details about me. I'm open to feedback and suggestions!
 
+---
+
+## Recent Projects
+- [Souvenir Designs](https://souvenirdesigns.com/).
+- [Wowwatches.co.uk](https://wowwatches.co.uk/).
+- [Prarthi Digitech](https://prarthidigitech.com/).
+- [NFT Rarity Discord Bot](https://github.com/shubhcode12/NFT-Rarity-Bot-Discord).
+
+---
 
 ## Stats
 |<img src="https://github-readme-stats.vercel.app/api?username=shubhcode12&hide_border=true&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhcode12&theme=dark&hide_border=true"/>|
