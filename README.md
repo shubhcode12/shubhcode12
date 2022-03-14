@@ -9,7 +9,7 @@ A self-taught, passionate app dev from India. I love to work with new technologi
  
 -  I like to explore new technologies and develop software solutions and quick hacks.
 -  I’m currently working on e-commerce website for [Souvenir Designs](https://souvenirdesigns.com/).
--  Please have a look at my [Resume](https://drive.google.com) for more details about me. I'm open to feedback and suggestions!
+-  Please have a look at my [Resume](https://raw.githubusercontent.com/shubhcode12/shubhcode12/7c6715dbbfd30591fdc7e2181e6e7a9b09bb93f2/shubhankar-mahajan-cv%20(1).pdf) for more details about me. I'm open to feedback and suggestions!
 
 
 ## Stats
