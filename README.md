@@ -45,4 +45,7 @@ A self-taught, passionate app dev from India. I love to work with new technologi
 <a href="https://twitter.com/shubhcode" target="blank"><img style="background:#fff;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shubhcode" height="30" width="40" /></a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 </div>
