@@ -42,7 +42,10 @@ A self-taught, passionate app dev from India. I love to work with new technologi
 
 ### Show some ❤️ by starring ⭐ some of the repositories!
 
+### Keep in touch
 
+[shubhcode.dev](https://shubhcode.netlify.app/) · [Instagram](https://instagram.com/shubhcode) . [Mail](mailto:shubhcode.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/shubhcode/)
+ 
 <p align="start">
 <a href="https://linkedin.com/in/shubhcode" target="blank"><img style="background-color:#fff;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shubhcode" height="30" width="40" /></a>
 <a href="https://instagram.com/shubhcode" target="blank"><img style="background:#fff;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shubhcode" height="30" width="40" /></a>
