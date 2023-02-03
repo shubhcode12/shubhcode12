@@ -17,11 +17,7 @@ A self-taught, passionate app dev from India. I love to work with new technologi
 
 ## Recent Projects
 - [Arafa Travels (Working)](http://arafatravels.com/).
-- [BharatBet - Betting Android App](https://bharatbet.netlify.app/)
-- [Souvenir Designs](https://souvenirdesigns.com/).
-- [Wowwatches.co.uk](https://wowwatches.co.uk/).
-- [Prarthi Digitech](https://prarthidigitech.com/).
-- [NFT Rarity Discord Bot](https://github.com/shubhcode12/NFT-Rarity-Bot-Discord).
+
 
 
 ## Stats
