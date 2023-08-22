@@ -33,6 +33,8 @@ A self-taught, passionate app dev from India. I love to work with new technologi
 [shubhcode.dev](https://shubhcode.netlify.app/) · [Instagram](https://instagram.com/shubhcode) . [Mail](mailto:shubhcode.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/shubhcode/)
  
 ![](https://media.tenor.com/bWUeVRqW9-IAAAAi/fast-cat-cat-excited.gif)
+![](https://www.gifcen.com/wp-content/uploads/2022/09/cat-gif-3.gif)
+
 
  
 </div>
