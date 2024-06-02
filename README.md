@@ -16,6 +16,7 @@ A self-taught, passionate app dev from India. I love to work with new technologi
 
 
 ## Recent Projects
+- [NeoPaisa] [https://neopaisa.com]
 - [Oihelper](https://oihelper.com/).
 - [Memesena - Memers Community App](https://giantwheeltech.com/).
 - [Knock Knock App](https://knockknockapp.in/).
