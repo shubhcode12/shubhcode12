@@ -1,41 +1,49 @@
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=shubhcode12&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shubhcode12&left_color=green&right_color=red)
 
-<h1 align="start"> Hello, I'm Shubhankar Mahajan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+# Hello, I'm Shubhankar Mahajan 👋
 
-<h3 align="start">I'm an enthusiastic app developer from India❤</h3>  
+### A passionate tech entrepreneur and mentor from India 🇮🇳
 
-A self-taught, passionate app dev from India. I love to work with new technologies. Currently, I am learning how to write flutter apps more efficiently with a well structured code and experimenting with kotlin !. I’m looking to apply my skills in a good million dollar idea! So if you have any , let's collaborate xD. 
+I’m Shubhankar, a self-taught, driven app developer and tech enthusiast from India. With a deep interest in exploring new technologies and building impactful digital products, I have dedicated my journey to creating solutions that matter.
 
- 
--  I like to explore new technologies and develop software solutions and quick hacks.
--  Ask me about #android, #native, #ui, #web, #java #kotlin #glutter #dart
--  I’m currently learning #kotlin 📱 #jetpackCompose 🎮 #DependancyInjection ⛓️
--  Please have a look at my [Resume](https://raw.githubusercontent.com/shubhcode12/shubhcode12/7c6715dbbfd30591fdc7e2181e6e7a9b09bb93f2/shubhankar-mahajan-cv%20(1).pdf) for more details about me. I'm open to feedback and suggestions!
--  See My Stats on [CodersRank](https://profile.codersrank.io/user/shubhcode12)
--  You can almost find me anywhere on internet by `shubhcode` as a username.
+Currently, I serve as:  
+🚀 **Mentor at Avishkar Design Institute** — guiding aspiring designers and technologists in Product Design, UI/UX, and modern technology stacks.  
+🚀 **Co-founder at Giantwheel Technology** — a Kolhapur-based digital marketing agency delivering high-impact services.  
+🚀 **COO at Cloudberry Tech Solutions LLP** — leading operations for a service-based software development firm specializing in custom software solutions.
 
+I’m passionate about crafting well-structured, efficient Flutter apps, experimenting with Kotlin, and always looking for that next big idea to collaborate on. If you have one, let’s build something awesome together!
 
-## Recent Projects
-- [NeoPaisa](https://neopaisa.com)
-- [Oihelper](https://oihelper.com/).
-- [Memesena - Memers Community App](https://giantwheeltech.com/).
-- [Knock Knock App](https://knockknockapp.in/).
+## 🔥 What I Do
+- Building mobile and web apps with modern tech stacks.
+- Mentoring in design and development best practices.
+- Leading teams to deliver customized digital solutions.
 
+## 🧩 Tech Stack
+PHP · Java · Android · Kotlin · JavaScript · TypeScript · Flutter · Dart · React · Next.js · Tailwind CSS · Node.js · MongoDB
 
+## 🛠️ Currently Exploring
+- Kotlin 📱
+- Jetpack Compose 🎮
+- Dependency Injection ⛓️
 
-## Stats
-|<img src="https://github-readme-stats.vercel.app/api?username=shubhcode12&hide_border=true&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhcode12&theme=dark&hide_border=true"/>|
+## 📄 [Check My Resume](https://raw.githubusercontent.com/shubhcode12/shubhcode12/7c6715dbbfd30591fdc7e2181e6e7a9b09bb93f2/shubhankar-mahajan-cv%20(1).pdf)
+
+## 📊 GitHub Stats
+
+| ![Shubhankar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhcode12&hide_border=true&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhcode12&theme=dark&hide_border=true) |
 |---|---|
 
+## 🌟 Recent Projects
+- [4amFresh](https://4amfresh.com) — Bangalore-based fresh food delivery startup
+- [Copytrade](https://copytrade.com) — Copy trading platform
+- [NeoPaisa](https://neopaisa.com)
+- [Oihelper](https://oihelper.com/)
+- [Memesena - Memers Community App](https://giantwheeltech.com/)
+- [Knock Knock App](https://knockknockapp.in/)
 
-<div align="start">
-
-### Keep in touch ❤️
-
-[shubhcode.dev](https://shubhcode.netlify.app/) · [Instagram](https://instagram.com/shubhcode) . [Mail](mailto:shubhcode.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/shubhcode/)
- 
-
-
-
- 
-</div>
+## 🤝 Let's Connect
+- [Website](https://shubhcode.netlify.app/)
+- [Instagram](https://instagram.com/shubhcode)
+- [Email](mailto:shubhcode.dev@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/shubhcode/)
+- [CodersRank](https://profile.codersrank.io/user/shubhcode12)
